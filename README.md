@@ -10,15 +10,19 @@ This script will airdrop all wallet addresses in the fellow-keys.json a cNFT of 
 ![Solflare sneakpeak](solflare.png)
 
 ## Steps to run the project
-1. Install yarn if you don't have it already
+1. Add environment variables
+```sh
+RPC_URL=
+```
+2. Install yarn if you don't have it already
 ```sh
 npm install -g yarn
 ```
-2. Install dependencies
+3. Install dependencies
 ```sh
 yarn install
 ```
-3. Run the script
+4. Run the script
 ```sh
 yarn start
 ```
