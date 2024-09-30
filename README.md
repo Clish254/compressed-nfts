@@ -1,5 +1,5 @@
 # Compressed NFTs - cNFTs
-Assignmet for module 9 of Solana Summer Internship 2024
+Assignmet for module 8 of Solana Summer Internship 2024
 ```
 Create a cNFT collection of your own profile picture and social links as metadata and airdrop it to other fellows.
 ```
