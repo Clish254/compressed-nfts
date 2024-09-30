@@ -4,7 +4,7 @@
   "main": "index.ts",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node app.ts"
   },
   "dependencies": {
     "@metaplex-foundation/mpl-bubblegum": "^4.2.1",
